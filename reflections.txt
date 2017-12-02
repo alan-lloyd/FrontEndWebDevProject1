@@ -1,0 +1,31 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+ 
+* What new skills have you learned?
+  
+* What has been easy?
+ 
+* What has been difficult?
+  
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+     ---
+
+Your response goes here!
+
+New skills learned - I've done HTML coding for years (with a recent break), so much of it so far was pleasantly familiar. 
+Choosing Atom for an appropriate text editor was new (replacing Textpad), and so far more succesful than when I tried an online version of it a few years ago.
+I've got a page of notes about shortcuts (I never used to really bother with them, but will try and use them now), and it seems HTML5 tags (figure, figcaption, del).
+Will keep making notes as things progress - particularly with JavaScript!
+
+What's been easy - drafting HTML pages is second-nature to me, so that's been easy. I've learned new things and reminded myself of 'obscure' things (eg hr), which hasn't been hard so far, and a good memory jogger.
+
+What's been difficult - nothing yet. I know the main battle will be getting highly skilled in JavaScript. 
+The W3C validator area doesn't seem to be working ('slow to load' 500 http errors perhaps), which was a minor problem answering a few questions, but it wasn't a hinderance to be honest.
+
+Problem solving in first project - I did the larger things first - check doctype text, html, head and body tags were all present and correct, h1, then h2, then paragraphs. Then em's and strong text. Then added the image, then the href links.   
+Finally checked downwards, paragraph by paragraph - adding things like horizontal line/ superscript x2.  This approach, of doing 'bigger' things first (enabling for a useful early check that the 'structure' was right),
+then doing smaller things, then checking text through from top to bottom, appeared to work here.
+I made choice not to use figure/figcaption with the image - as there was no caption used to make such a choice appropriate.
+
+ADL.
+2nd December 2017.
